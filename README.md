@@ -20,7 +20,7 @@ After cloning all the files from the respository you would need to install inqui
 - go through the contact information that was generated for the team members
 
 
-![teamprofile](assets/teamprofile.png)
+![teamprofile](Assets/teamprofile.png)
 
 
 ## Credits
