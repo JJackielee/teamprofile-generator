@@ -1,5 +1,5 @@
 # teamprofile-generator
-a weather application that shows you the forecast of a city
+an application that lets you generate a profile for your team
 
 ## Description
 
